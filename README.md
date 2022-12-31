@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @utuedey
-- 👀 I’m interested in python programming and Machine learning
-- 🌱 I’m currently learning python programming
+- 👀 I’m interested in Python programming and Data Analysis
+- 🌱 I’m currently learning Backend development
 - 💞️ I’m looking to collaborate on any python project.
 - 📫 How to reach me ...mail: josephsamuel774gmail.com
 GSM: +2348161695297
