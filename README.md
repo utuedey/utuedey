@@ -27,8 +27,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-
 </div>
 <h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
 <p>I have experience using industry-leading cloud platforms and technologies to architect, deploy, and oversee scalable, highly available, and fault-tolerant systems in the dynamic field of cloud computing. A brief overview of the cloud technologies I am familiar with:</p>
@@ -40,12 +38,12 @@
 </div>
 
 <h2 align="center" class="section-heading">🔧 Frameworks</h2>
-<p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
+<p>Building scalable, effective applications requires tools and structure, which is why frameworks are the foundation of my development process. I'm skilled in a wide range of frameworks, each selected for its capacity to promote quick development and provide reliable functionality.</p>
 <div align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
