@@ -16,11 +16,8 @@
   <a href="https://www.linkedin.com/in/Joseph-utuedeye">
     <img src="https://img.shields.io/badge/ZanePearton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-<a href="https://github.com/ZanePearton/ZanePearton" target="_blank">
+<a href="https://github.com/utuedey/utuedey" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=ZanePearton&style=for-the-badge" alt="Profile views" />
-</div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <p> I'm a versatile engineer who has become proficient in a wide range of programming languages, all of which are essential tools in my toolbox. These are the languages I use to create tasteful solutions for challenging issues.</p>
