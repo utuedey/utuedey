@@ -31,3 +31,13 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/utuedey/utuedey/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </di
+<div align="center">
+ <h2>💻Programming Languages</h2>
+ <p>As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages,
+ each serving as a pivotal tool in my development toolkit. Here are the languages I wield to turn complex problems into eleghant solutions.</p>
+</div>
+<div align="center">
+    <!-- Replace with your skills -->
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <!-- Add more badges similarly -->
+</div>
