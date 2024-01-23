@@ -6,7 +6,8 @@
 <div align="center">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>I'm a Software engineer with a chemical engineering background, specializing in creating innovative solutions for complex problems. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems.</p>
+    <p>I'm a Software engineer with a chemical engineering background, specializing in creating innovative solutions for complex problems. My technical range is broad, I am able to  
+       create highly efficient and scalable code.</p>
 </div>
 
 <div align="center">
@@ -14,7 +15,7 @@
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Repos. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/Joseph-utuedeye">
-    <img src="https://img.shields.io/badge/ZanePearton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/joseph-utuedeye-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 <a href="https://github.com/utuedey/utuedey" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
@@ -30,7 +31,7 @@
 
 </div>
 <h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
-<p>In the dynamic realm of cloud computing, I am proficient in leveraging leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I specialize in:</p>
+<p>I have experience using industry-leading cloud platforms and technologies to architect, deploy, and oversee scalable, highly available, and fault-tolerant systems in the dynamic field of cloud computing. A brief overview of the cloud technologies I am familiar with:</p>
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
