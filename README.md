@@ -6,8 +6,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>I'm a Software engineer with a chemical engineering background, specializing in creating innovative solutions for complex problems. My technical range is broad, I am able to  
-       create highly efficient and scalable code.</p>
+    <p>Hi, I’m a dedicated Backend Developer with three years of experience specializing in building scalable backend services and APIs. With expertise in **Python**, **JavaScript**, and foundational knowledge in **Golang**, I craft robust, efficient systems tailored to meet the demands of modern web and mobile applications. My proficiency in **database management** (PostgreSQL, MongoDB) and **microservices architecture** ensures seamless data handling and application performance.</p>
 </div>
 
 <div align="center">
