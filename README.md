@@ -6,7 +6,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>Hi, I’m a dedicated Backend Developer with three years of experience specializing in building scalable backend services and APIs. With expertise in **Python**, **JavaScript**, and foundational knowledge in **Golang**, I craft robust, efficient systems tailored to meet the demands of modern web and mobile applications. My proficiency in **database management** (PostgreSQL, MongoDB) and **microservices architecture** ensures seamless data handling and application performance.</p>
+    <p>I’m a dedicated Backend Developer with three years of experience specializing in building scalable backend services and APIs. With expertise in <b>Python</b>, <b>JavaScript</b>, and foundational knowledge in <b>Golang</b>, I craft robust, efficient systems tailored to meet the demands of modern web and mobile applications. My proficiency in <b>database management</b> (PostgreSQL, MongoDB) and <b>microservices architecture</b> ensures seamless data handling and application performance.</p>
 </div>
 
 <div align="center">
